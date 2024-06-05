@@ -1,0 +1,17 @@
+/Users/bji/projects/test/src/main/java/com/jae/playergames/Application.java
+/Users/bji/projects/test/src/main/java/com/jae/playergames/config/KafkaConfig.java
+/Users/bji/projects/test/src/main/java/com/jae/playergames/config/RedisConfig.java
+/Users/bji/projects/test/src/main/java/com/jae/playergames/controller/GameController.java
+/Users/bji/projects/test/src/main/java/com/jae/playergames/domain/Game.java
+/Users/bji/projects/test/src/main/java/com/jae/playergames/domain/GameEventType.java
+/Users/bji/projects/test/src/main/java/com/jae/playergames/domain/GameStatus.java
+/Users/bji/projects/test/src/main/java/com/jae/playergames/domain/Move.java
+/Users/bji/projects/test/src/main/java/com/jae/playergames/domain/Player.java
+/Users/bji/projects/test/src/main/java/com/jae/playergames/event/MoveCreatedEvent.java
+/Users/bji/projects/test/src/main/java/com/jae/playergames/event/consumer/MoveEventConsumer.java
+/Users/bji/projects/test/src/main/java/com/jae/playergames/event/producer/MoveEventProducer.java
+/Users/bji/projects/test/src/main/java/com/jae/playergames/model/response/CommonApiResp.java
+/Users/bji/projects/test/src/main/java/com/jae/playergames/repository/GameRepository.java
+/Users/bji/projects/test/src/main/java/com/jae/playergames/repository/GameRepositoryImpl.java
+/Users/bji/projects/test/src/main/java/com/jae/playergames/service/GameService.java
+/Users/bji/projects/test/src/main/java/com/jae/playergames/service/GameServiceImpl.java

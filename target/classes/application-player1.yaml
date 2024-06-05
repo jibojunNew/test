@@ -1,0 +1,21 @@
+server:
+  port: 8080
+player:
+  name: "Player1"
+spring:
+  kafka:
+    bootstrap-servers: kafka:9092
+    consumer:
+      group-id: game-group
+      auto-offset-reset: earliest
+    producer:
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.apache.kafka.common.serialization.StringSerializer
+    admin:
+      properties:
+        auto-create-topics: true
+
+  data:
+    redis:
+      host: redis
+      port: 6379
